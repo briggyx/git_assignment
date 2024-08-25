@@ -79,4 +79,14 @@ In short, Git is the tool, while GitHub is a service for using Git collaborative
 
 > g. What is the `main` branch?
 
+The **`main`** branch is the default primary branch in a Git repository where the source code for the project is considered stable and production-ready. It is the central branch that developers typically use to integrate completed features or bug fixes from other branches. The `main` branch replaces the `master` branch in many projects as the default name, following a shift toward more inclusive terminology.
+
 > h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the `main` branch?
+
+No, you should not directly push changes to the `main` branch, especially in a collaborative environment. Instead, you should:
+
+1. **Create a new branch** for your feature or fix.
+2. **Work on that branch** and make your changes.
+3. **Open a pull request** to merge your changes into the `main` branch after review and approval.
+
+This workflow helps maintain the stability of the `main` branch and ensures that all changes are reviewed before being merged.
