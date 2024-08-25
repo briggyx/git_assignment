@@ -67,7 +67,15 @@ A pull request (often abbreviated as PR) is a feature that allows developers to 
 
 > e. What is the difference between `git` and `GitHub`?
 
+**Git** is a version control system that tracks changes to files and manages source code history locally. 
+
+**GitHub** is a web-based platform that hosts Git repositories, allowing for collaboration, remote access, and additional features like pull requests, issue tracking, and project management. 
+
+In short, Git is the tool, while GitHub is a service for using Git collaboratively online.
+
 > f. What does `git diff` do?
+
+`git diff` shows the differences between files in your Git repository. It compares changes that have not been staged for commit, the changes between commits, or changes between the working directory and a particular commit. It highlights what has been added, modified, or deleted.
 
 > g. What is the `main` branch?
 
