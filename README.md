@@ -29,7 +29,41 @@ A pull request (often abbreviated as PR) is a feature that allows developers to 
 
 > c. How do I open up a _pull request_?
 
+1. **Navigate to Your Repository on GitHub**: Open your repository page on GitHub.
+
+2. **Go to the "Pull Requests" Tab**: Click on the **"Pull requests"** tab at the top of the page.
+
+3. **Click "New Pull Request"**: Select the green **"New pull request"** button.
+
+4. **Choose Branches to Compare**: Select the base branch (e.g., `main`) and your feature branch (e.g., `assignment`) to compare changes.
+
+5. **Review Changes**: Check the differences between the branches to ensure everything looks correct.
+
+6. **Add Title and Description**: Provide a descriptive title and a detailed description of the changes in the pull request.
+
+7. **Create the Pull Request**: Click the **"Create pull request"** button.
+
+8. **Optional: Assign Reviewers and Add Labels**: You can assign reviewers and add labels if needed.
+
 > d. Give me a step by step guide on how to add someone to your repository.
+
+1. **Go to Your Repository on GitHub**: Open your repository in GitHub.
+
+2. **Navigate to "Settings"**: Click the **"Settings"** tab at the top of the page.
+
+3. **Select "Collaborators and teams"**: In the sidebar, click **"Collaborators and teams"** under the "Access" section.
+
+4. **Click "Add People"**: Press the **"Add people"** button.
+
+5. **Enter Username or Email**: Type the GitHub username or email of the person you want to add.
+
+6. **Select the User**: Choose the correct user from the dropdown list.
+
+7. **Set Permissions**: Choose the appropriate access level (Read, Triage, Write, Maintain, Admin).
+
+8. **Send the Invitation**: Click **"Add to repository"** to send an invitation.
+
+9. **Wait for Acceptance**: The user must accept the invitation to gain access.
 
 > e. What is the difference between `git` and `GitHub`?
 
